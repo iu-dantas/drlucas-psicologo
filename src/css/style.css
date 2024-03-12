@@ -4,7 +4,7 @@
 }
 
 main {
-    background-color: #EFF3CD;
+    background-color: #DFDECF;
 }
 
 h1, h2, h3, h4,h5 {
@@ -133,7 +133,7 @@ nav .btn-contact:hover {
     justify-content: center;
     align-items: center;
     background-color: #A1856F;
-    color: #EFF3CD;
+    color: #DFDECF;
     text-decoration: none;
     width: 250px;
     height: 47px;
@@ -142,8 +142,8 @@ nav .btn-contact:hover {
 
 .btn-banner:hover {
     background-color: #ffffff00;
-    color: #EFF3CD;
-    border: 2px solid #EFF3CD;
+    color: #DFDECF;
+    border: 2px solid #DFDECF;
 }
 
 /*BANNER FIM*/
@@ -196,7 +196,7 @@ section .service-card {
     align-items: center;
     padding: 1em;
     border: none;
-    background-color: #EFF3CD;
+    background-color: #DFDECF;
 }
 
 section .next {
@@ -309,7 +309,7 @@ label{
 }
 
 .contact .btn:hover{
-    background: #EFF3CD;
+    background: #DFDECF;
     color: #413C58;
     border-color: #413C58
 }
