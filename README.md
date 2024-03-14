@@ -36,4 +36,4 @@ O protótipo de alta fidelidade foi desenvolvido utilizando a plataforma Figma, 
 
 ### Como Contribuir
 
-Este projeto foi concluído para fins educativos e não está aberto a contribuições externas. No entanto, feedbacks são sempre bem-vindos!
+Este projeto foi concluído para fins educativos e não está aberto a contribuições externas. No entanto, feedbacks são sempre bem-vindos!# drlucas-psicologo
