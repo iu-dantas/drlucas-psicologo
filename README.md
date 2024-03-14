@@ -13,9 +13,9 @@ Cliente foi inventado com ajuda do chat-gpt, enviei meu briefing para o chat gpt
 Projeto elaborado do zero, criei sua identidade visual completa baseado em temas sorteados, que foram: Psicologia, Elegante
 
 #### Paleta de Cores
-![Paleta de Cores](/src/design/identidade.png)
-
 A paleta de cores foi escolhida para transmitir Confiança, Empatia e Profissionalismo, com tons suaves que proporcionam uma experiência visual agradável aos visitantes.
+
+![Paleta de Cores](/src/design/identidade.png)
 
 ### Protótipo Figma
 
