@@ -417,29 +417,19 @@ nav .btn-contact {
     margin-right: 0;
 }
 
+.banner-container img {
+    width: fit-content;
+    position: relative;
+    right: 60%;
+}
+
 .banner-content {
-    top: 60%;
-    left: 65%;
-    transform: translate(-60%, -70%);
     text-align: center;
+    top: 80%;
     color: #fff;
+    
 }
 
-.banner-content h1 {
-    font-size: 8px;
-    margin-bottom: 2px;
-}
-
-.banner-content h2 {
-    font-size: 6px;
-    margin-bottom: 4px;
-}
-
-.btn-banner {
-    width: 60px;
-    height: 15px;
-    font-size: 6px;
-}
 
 .sobre-container {
     flex-direction: column;
@@ -487,8 +477,12 @@ section .dep-card {
     flex-direction: column;
 }
 
-.duvidas {
-    max-width: 90vw;
+.duvida-nav-item {
+    visibility: hidden;
+}
+
+footer .duvidas {
+    visibility:hidden ;
 }
 
 }
